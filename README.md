@@ -58,14 +58,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimaakter156&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaakter156&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=shimaakter156&theme=dark" />
 </p>
 ---
@@ -84,13 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimaakter156&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shimaakter156&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
