@@ -57,19 +57,17 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shimaakter156&show_icons=true&theme=dark" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaakter156&layout=compact&theme=dark" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimaakter156&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaakter156&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shimaakter156&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shimaakter156&theme=react-dark&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shimaakter156&theme=dark" />
+</p>
 ---
 
 ### 🔥 GitHub Streak
