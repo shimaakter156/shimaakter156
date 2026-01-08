@@ -12,7 +12,7 @@
 - 🔭 I'm currently working at **ACI Limited Bangladesh**
 - 🌱 I'm currently learning **TensorFlow, PyTorch, Docker, Kubernetes**
 - 💬 Ask me about **Laravel, Vue.js, SQL Server, REST APIs**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **shimaakter156@gmail.com**
 - ⚡ Fun fact: **I manage 1000+ outlet databases!**
 
 ---
