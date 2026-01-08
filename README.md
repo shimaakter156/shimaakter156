@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **TensorFlow, PyTorch, Docker, Kubernetes**
 - 💬 Ask me about **Laravel, Vue.js, SQL Server, REST APIs, Multi-Database Architecture**
 - 📫 How to reach me: **shimaakter156@gmail.com**
-- ⚡ Fun fact: **I've developed enterprise solutions for 6+ ACI business divisions including Motors, Pharmaceuticals, Logistics, Premia Flex, Premia Plastic, and Crop Care - covering nearly 40% of ACI's diverse business sectors!**
+- ⚡ Fun fact: **I've developed enterprise solutions for 6+ ACI business divisions including Motors, Pharmaceuticals, Logistics, Premia Flex, Premia Plastic, and Crop Care - covering nearly 60% of ACI's diverse business sectors!**
 - 🔗 Code repositories: **GitHub & GitLab**
 
 ---
@@ -57,11 +57,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimaakter156&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaakter156&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
+### 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimaakter156&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaakter156&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shimaakter156&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shimaakter156&theme=react-dark&hide_border=true&area=true)
+
+</div>
 ---
 
 ### 🔥 GitHub Streak
@@ -98,17 +106,15 @@
 | Division | Solutions Delivered | Tech Stack |
 |----------|---------------------|------------|
 | 🚗 **ACI Motors** | Sales & Service Management | Laravel, Vue.js, SQL Server |
-| 💊 **ACI Pharmaceuticals** | Medical College Management, Distribution System | Vue.js, SQL Server, Biometric Integration |
-| 📦 **ACI Logistics** | Fleet Management, Daily Sales Collection (DSC) | Laravel, REST API, Real-time Tracking |
-| 🏢 **Premia Flex** | Business Intelligence Dashboard | Vue.js, Chart.js, Power BI |
-| 🏭 **Premia Plastic** | Production & Inventory Management | Laravel, Multi-Database Architecture |
-| 🌾 **ACI Crop Care** | Field Force Tracker, Distribution Management | Vue.js, Google Maps API, JWT Auth |
+| 💊 **ACI Pharmaceuticals** | Distribution System , Group Expense, Pharma Assist | codeigniter,Lumen,Rest API, SQL Server |
+| 📦 **ACI Logistics** | SAP Monitoring,Dc-counting, Daily Sales Collection (DSC) | Laravel, REST API, Real-time Tracking |
+| 🏢 **Premia Flex** | Business Intelligence Dashboard | Vue.js,Laravel,REST API, Power BI |
+| 🏭 **Premia Plastic** | E-Commerce | Laravel, Multi-Database Architecture |
+| 🌾 **ACI Crop Care** | Field Force Tracker,Demand Generation Activity,Distribution Management | Vue.js, Google Maps API,REST API, JWT Auth |
 
 **Key Achievements:**
-- 🗄️ Managing **1000+ outlet databases** with multi-tenant architecture
-- 🔐 Implemented **ZKTeco biometric integration** for attendance systems
+- 🗄️ Managing **800+ outlet databases** with multi-tenant architecture
 - 📊 Developed **Power BI dashboards** for real-time business analytics
-- 💳 Integrated **payment gateways** (bKash, SSL Commerce) for POS systems
 - 🎯 Built **approval workflow systems** across multiple business units
 - 🔄 Maintained code repositories on **GitHub & GitLab** with CI/CD pipelines
 
@@ -117,17 +123,17 @@
 - **Frontend:** Vue.js 2, JavaScript ES6+, Tailwind CSS, Bootstrap
 - **Database:** Microsoft SQL Server (T-SQL, Stored Procedures, Query Optimization)
 - **Version Control:** Git, GitHub, GitLab
-- **Integration:** JWT Authentication, Biometric Devices, Payment Gateways, Thermal Printers
+- **Integration:** JWT Authentication
 
 ---
 
 ### 🚀 Notable Projects
 
 #### **HR Connect (HRMS)**
-Complete HR management system with biometric integration, leave management, and employee evaluation
-- **Tech:** Laravel, Vue.js, ZKTeco SDK, SQL Server
+Complete HR management system leave management,Training, SEP, Gate pass management and employee evaluation
+- **Tech:** Laravel, Vue.js, SQL Server
 - **Scale:** 5000+ employees across multiple locations
-- **Repo:** GitLab (Private Enterprise)
+- **Repo:** GitHub (Private Enterprise)
 
 #### **Daily Sales Collection (DSC)**
 Multi-outlet sales tracking and collection system
@@ -137,15 +143,9 @@ Multi-outlet sales tracking and collection system
 
 #### **Field Force Tracker**
 GPS-based real-time location tracking for field employees
-- **Tech:** Vue.js, Google Maps API, WebSocket
+- **Tech:** Vue.js, Google Maps API,REST API, WebSocket
 - **Scale:** 500+ field force personnel
-- **Repo:** GitLab (Private Enterprise)
-
-#### **Medical College Management System**
-Comprehensive system for student tracking, attendance, and card management
-- **Tech:** Vue.js, Laravel, Biometric Integration
-- **Features:** Department-wise card tracking, Statistical analysis
-- **Repo:** GitLab (Private Enterprise)
+- **Repo:** Github (Private Enterprise)
 
 ---
 
