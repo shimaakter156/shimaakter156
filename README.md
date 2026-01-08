@@ -5,15 +5,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Laravel+%7C+Vue.js+Expert;2%2B+Years+of+Experience;Building+Enterprise+Solutions" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/shimaakter156"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://gitlab.com/shimaakter156"><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <a href="https://www.linkedin.com/in/shima-akter-the-web-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working at **ACI Limited Bangladesh**
 - 🌱 I'm currently learning **TensorFlow, PyTorch, Docker, Kubernetes**
-- 💬 Ask me about **Laravel, Vue.js, SQL Server, REST APIs**
+- 💬 Ask me about **Laravel, Vue.js, SQL Server, REST APIs, Multi-Database Architecture**
 - 📫 How to reach me: **shimaakter156@gmail.com**
-- ⚡ Fun fact: **I manage 1000+ outlet databases!**
+- ⚡ Fun fact: **I've developed enterprise solutions for 6+ ACI business divisions including Motors, Pharmaceuticals, Logistics, Premia Flex, Premia Plastic, and Crop Care - covering nearly 40% of ACI's diverse business sectors!**
+- 🔗 Code repositories: **GitHub & GitLab**
 
 ---
 
@@ -33,14 +40,18 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 #### **Databases & Tools**
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![WAMP](https://img.shields.io/badge/WAMP-CA2133?style=for-the-badge&logo=apache&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -80,25 +91,104 @@
 ### 💼 Professional Experience
 
 #### **ACI Limited Bangladesh** - Full-stack Web Developer
-*Present*
+*2023 - Present*
 
-**Key Projects:**
-- 🏥 **HR Connect (HRMS)** - Complete HR management system with biometric integration
-- 📊 **Field Force Tracker** - Real-time location tracking system for field employees
-- 💰 **Daily Sales Collection (DSC)** - Multi-outlet sales tracking and management
-- 🏢 **PremiaFlex Dashboard** - Business intelligence dashboard with Power BI integration
-- 🗄️ **Multi-Database Management** - Managing SQL Server databases across 1000+ outlets
+**Multi-Division Enterprise Solutions:**
 
-**Technologies:** Laravel • Vue.js • SQL Server • RESTful APIs • JWT Authentication • ZKTeco Integration
+| Division | Solutions Delivered | Tech Stack |
+|----------|---------------------|------------|
+| 🚗 **ACI Motors** | Sales & Service Management | Laravel, Vue.js, SQL Server |
+| 💊 **ACI Pharmaceuticals** | Medical College Management, Distribution System | Vue.js, SQL Server, Biometric Integration |
+| 📦 **ACI Logistics** | Fleet Management, Daily Sales Collection (DSC) | Laravel, REST API, Real-time Tracking |
+| 🏢 **Premia Flex** | Business Intelligence Dashboard | Vue.js, Chart.js, Power BI |
+| 🏭 **Premia Plastic** | Production & Inventory Management | Laravel, Multi-Database Architecture |
+| 🌾 **ACI Crop Care** | Field Force Tracker, Distribution Management | Vue.js, Google Maps API, JWT Auth |
+
+**Key Achievements:**
+- 🗄️ Managing **1000+ outlet databases** with multi-tenant architecture
+- 🔐 Implemented **ZKTeco biometric integration** for attendance systems
+- 📊 Developed **Power BI dashboards** for real-time business analytics
+- 💳 Integrated **payment gateways** (bKash, SSL Commerce) for POS systems
+- 🎯 Built **approval workflow systems** across multiple business units
+- 🔄 Maintained code repositories on **GitHub & GitLab** with CI/CD pipelines
+
+**Core Technologies:**
+- **Backend:** Laravel (Eloquent, Blade), PHP 7.3+, RESTful APIs
+- **Frontend:** Vue.js 2, JavaScript ES6+, Tailwind CSS, Bootstrap
+- **Database:** Microsoft SQL Server (T-SQL, Stored Procedures, Query Optimization)
+- **Version Control:** Git, GitHub, GitLab
+- **Integration:** JWT Authentication, Biometric Devices, Payment Gateways, Thermal Printers
+
+---
+
+### 🚀 Notable Projects
+
+#### **HR Connect (HRMS)**
+Complete HR management system with biometric integration, leave management, and employee evaluation
+- **Tech:** Laravel, Vue.js, ZKTeco SDK, SQL Server
+- **Scale:** 5000+ employees across multiple locations
+- **Repo:** GitLab (Private Enterprise)
+
+#### **Daily Sales Collection (DSC)**
+Multi-outlet sales tracking and collection system
+- **Tech:** Laravel, Vue.js, REST API, SQL Server
+- **Scale:** 1000+ outlets with real-time sync
+- **Repo:** GitLab (Private Enterprise)
+
+#### **Field Force Tracker**
+GPS-based real-time location tracking for field employees
+- **Tech:** Vue.js, Google Maps API, WebSocket
+- **Scale:** 500+ field force personnel
+- **Repo:** GitLab (Private Enterprise)
+
+#### **Medical College Management System**
+Comprehensive system for student tracking, attendance, and card management
+- **Tech:** Vue.js, Laravel, Biometric Integration
+- **Features:** Department-wise card tracking, Statistical analysis
+- **Repo:** GitLab (Private Enterprise)
+
+---
+
+### 🔗 Version Control & Collaboration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-shimaakter156-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-shimaakter156-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</p>
+
+**Workflow:**
+- 📦 **GitHub:** Open-source contributions & personal projects
+- 🏢 **GitLab:** Enterprise projects & ACI Limited repositories
+- 🔄 **CI/CD:** GitLab CI/CD pipelines for automated testing & deployment
+- 🌿 **Branching:** Git Flow for feature development & releases
+- 👥 **Collaboration:** Code reviews, merge requests, issue tracking
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/shimaakter156"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shima-akter-the-web-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shimaakter156">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://gitlab.com/shimaakter156">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+  <a href="mailto:shimaakter156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shimaakter156">
+    <img src="https://img.shields.io/github/followers/shimaakter156?label=GitHub%20Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://gitlab.com/shimaakter156">
+    <img src="https://img.shields.io/badge/GitLab-Follow-FCA121?style=social&logo=gitlab" alt="GitLab Follow"/>
+  </a>
 </p>
 
 ---
@@ -111,10 +201,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shimaakter156&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+### 📊 Coding Activity
+```text
